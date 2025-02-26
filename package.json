@@ -17,6 +17,7 @@
     },
     "homepage": "https://github.com/webgptorg/hello-world-node-js#readme",
     "dependencies": {
-        "ptbk": "0.86.0"
+        "@types/hapi": "^18.0.14",
+        "promptbook": "workspace:*"
     }
 }
